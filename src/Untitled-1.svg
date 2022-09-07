@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="163.9px" height="163.9px" viewBox="0 0 163.9 163.9" style="enable-background:new 0 0 163.9 163.9;" xml:space="preserve"
+	>
+<style type="text/css">
+	.st0{fill:#0051A2;}
+	.st1{fill:#1B75BE;}
+	.st2{fill:#408EE0;}
+	.st3{fill:#89BFF8;}
+</style>
+<circle class="st0" cx="141.9" cy="81.9" r="10">
+<animate  accumulate="none" additive="replace" attributeName="cx" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="80;50">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="cy" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="50;80">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="fill" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="#0051a2;#1b75be">
+	</animate>
+</circle>
+<circle class="st1" cx="81.9" cy="141.9" r="10">
+<animate  accumulate="none" additive="replace" attributeName="cx" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="50;20">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="cy" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="80;50.00000000000001">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="fill" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="#1b75be;#408ee0">
+	</animate>
+</circle>
+<circle class="st2" cx="21.9" cy="81.9" r="10">
+<animate  accumulate="none" additive="replace" attributeName="cx" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="20;49.99999999999999">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="cy" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="50.00000000000001;20">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="fill" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="#408ee0;#89bff8">
+	</animate>
+</circle>
+<circle class="st3" cx="81.9" cy="21.9" r="10">
+<animate  accumulate="none" additive="replace" attributeName="cx" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="49.99999999999999;80">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="cy" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="20;49.99999999999999">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="fill" calcMode="linear" dur="1s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" values="#89bff8;#0051a2">
+	</animate>
+</circle>
+</svg>
